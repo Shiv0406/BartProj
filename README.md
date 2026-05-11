@@ -1,4 +1,4 @@
-# BART Post-COVID Ridership Recovery Analysis
+# BART Ridership Recovery & Expansion Projections: A Post-COVID Analysis
 
 ## Overview
 This project investigates which BART (Bay Area Rapid Transit) stations recovered 
