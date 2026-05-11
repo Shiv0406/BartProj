@@ -10,6 +10,7 @@ to project ridership performance at 13 proposed BART expansion stations.
 ## Research Question
 Did BART recover to pre-pandemic ridership levels, and which station and 
 neighborhood characteristics predict which stations bounced back?
+Given the recovery of the stations, how well will future comparable stations perform?
 
 ## Data Sources
 - **BART Monthly Ridership Data** (2018–2025): Origin-destination matrices 
