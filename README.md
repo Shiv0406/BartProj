@@ -122,5 +122,12 @@ similar to how Castro Valley transitioned from a terminus to a mid-line station.
 - K-means clustering on 48 stations is a small sample. Cluster assignments 
   should be interpreted with caution.
 
+## Key Findings
+- BART system-wide ridership remained at ~35% of pre-COVID baseline as of December 2023
+- Suburban terminus stations (AN, PC, RM) outperformed dense urban stations
+- Neither income nor population density predicted recovery — both hypotheses rejected
+- Proposed Contra Costa stations project strongest recovery (0.360) based on demographic similarity to existing suburban stations
+
+
 ## Repository Structure
 
